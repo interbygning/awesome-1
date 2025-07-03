@@ -29,3 +29,4 @@
 2025-10-24 11:57:05 improve UX
 2025-05-29 23:22:32 add fallback
 2025-07-28 08:40:45 update feature
+2025-07-03 19:35:35 fix typo in docs
